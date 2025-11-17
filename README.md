@@ -1,9 +1,11 @@
 <div align="center">
 
 # ⚽ 아웃핏볼 : OutfitBall
-<div style="background-color: white;">
+<table><tr><td align="center" bgcolor="#FFFFFF">
+  
 <img src="screenshots/outfitball.png" alt="OutfitBall Logo" width="200"/>
-</div>
+
+</td></tr></table>
 
 #### 사용자 입력 및 기상청 날씨 API 기반<br/>축구, 풋살 환경에서의 맞춤형 아웃핏 추천 어플리케이션
 
