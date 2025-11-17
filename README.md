@@ -1,10 +1,18 @@
-# 아웃핏볼 : OutfitBall Application
+<div align="center">
 
-> 사용자 입력 및 기상청 날씨 API 기반 축구, 풋살 환경에서의 맞춤형 아웃핏 추천 어플리케이션
+# ⚽ 아웃핏볼 : OutfitBall
+<div style="background-color: white;">
+<img src="screenshots/outfitball.png" alt="OutfitBall Logo" width="200"/>
+</div>
+
+#### 사용자 입력 및 기상청 날씨 API 기반<br/>축구, 풋살 환경에서의 맞춤형 아웃핏 추천 어플리케이션
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.35.7-02569B?logo=flutter)](https://flutter.dev)
-[![Platform](https://img.shields.io/badge/Platform-iOS-lightgrey)](https://www.apple.com/ios)
-[![Platform](https://img.shields.io/badge/Platform-macOS-lightgrey)](https://www.apple.com/os/macos/)
+[![Platform](https://img.shields.io/badge/Platform-iOS-green)](https://www.apple.com/ios)
+[![Platform](https://img.shields.io/badge/Platform-macOS-skygreen)](https://www.apple.com/os/macos/)
+
+</div>
+
 
 ## Contact
 
