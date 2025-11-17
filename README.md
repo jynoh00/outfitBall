@@ -63,7 +63,7 @@
 
 ---
 
-## 🏗️ 프로젝트 구조 (MVC Pattern)
+## 🏗️ 프로젝트 구조
 
 ```
 lib/
@@ -346,7 +346,7 @@ main.dart // 프로그램의 진입점
 
 ---
 
-## 📱 주요 데이터 설정 기준
+## 🔢 주요 데이터 설정 기준
 
 ### 포지션별 운동 강도 상수
 ```dart
@@ -445,7 +445,7 @@ double _calculateFeltTemperature({
 
 ---
 
-## 앱 실행 화면
+## 📱 앱 실행 화면
 
 #### 앱 설치 완료
 ![Home Screen](screenshots/0.png)
@@ -515,7 +515,7 @@ flutter run -d "iPhone 16 Pro"
 
 ---
 
-## 추후 개선할 점
+## 🔮 추후 개선할 점
 
 - Android, macOS, web 버전 적용
 - 전문 자료 기반 outfit_recommendation 세분화
